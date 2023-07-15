@@ -7,8 +7,8 @@
   <folder_dir>C:\Users\Admin\Desktop</folder_dir>
   <crop_point_x>0</crop_point_x>
   <crop_point_y>0</crop_point_y>
-  <width>0</width>
-  <height>0</height>
+  <width>1000</width>
+  <height>1000</height>
   <enabled_directories>true</enabled_directories>
   <enabled_direct_paths>false</enabled_direct_paths>
 </PropertyInfo>
