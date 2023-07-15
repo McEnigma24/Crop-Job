@@ -5,4 +5,4 @@ Crop Job is usefull when we have many images all in the same size (for example m
 
 -------------
 ### USEFULL TRICK
-if you use the app mostly for screenshots, you can link C:\Users\Admin\Pictures\Screenshots directly, take out previous pictures and the whole proces of taking screenshots and croping them will be faster
+if you use the app mostly for screenshots, you can link C:\Users\Admin\Pictures\Screenshots directly, take out previous pictures and the whole process of taking screenshots and croping them will be faster
