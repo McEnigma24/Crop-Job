@@ -2,9 +2,9 @@
 <PropertyInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <saving_to>.jpg</saving_to>
   <checkBox_jpg>true</checkBox_jpg>
-  <checkBox_png>true</checkBox_png>
+  <checkBox_png>false</checkBox_png>
   <checkBox_bmp>false</checkBox_bmp>
-  <folder_dir>C:\Users\Admin\Desktop>
+  <folder_dir>C:\Users\Admin\Desktop</folder_dir>
   <crop_point_x>0</crop_point_x>
   <crop_point_y>0</crop_point_y>
   <width>0</width>
