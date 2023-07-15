@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <saving_to>.jpg</saving_to>
+  <checkBox_jpg>true</checkBox_jpg>
+  <checkBox_png>true</checkBox_png>
+  <checkBox_bmp>false</checkBox_bmp>
+  <folder_dir>C:\Users\Admin\Desktop\all</folder_dir>
+  <crop_point_x>591</crop_point_x>
+  <crop_point_y>222</crop_point_y>
+  <width>1957</width>
+  <height>1141</height>
+  <enabled_directories>true</enabled_directories>
+  <enabled_direct_paths>false</enabled_direct_paths>
+</PropertyInfo>
